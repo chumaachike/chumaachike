@@ -1,5 +1,5 @@
 <img
-src=“./images/ACE.png”
+src='./images/ACE.png'
 raw=true
 alt=“Banner-image”
 style=“margin-right: 10px;”
