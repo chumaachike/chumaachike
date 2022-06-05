@@ -15,7 +15,7 @@ I am a graduate of the University of Nigeria from the department of Electronic E
 
 I enjoy playing/watching football (#Bayern) and always open to try new activities and continue learning from life. 
 
-You can contact me on the following platforms
+You can contact me on the following platforms:
 - Twitter: [@AchikeChuma](https://twitter.com/AchikeChuma)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/edward-achike-903432111/)
 - Instagram: [chumaachike](https://www.instagram.com/chumaachike/)
