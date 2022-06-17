@@ -20,6 +20,10 @@ You can contact me on the following platforms:
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/edward-achike-903432111/)
 - Instagram: [chumaachike](https://www.instagram.com/chumaachike/)
 
+[Portfolio] (https://chumaachike.github.io/portfolio/)
+[]
+
+
 
 <!--
 **chumaachike/chumaachike** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
