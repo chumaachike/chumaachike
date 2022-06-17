@@ -20,8 +20,8 @@ You can contact me on the following platforms:
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/edward-achike-903432111/)
 - Instagram: [chumaachike](https://www.instagram.com/chumaachike/)
 
- #### I am currently avaible for hire, below is a link to my portfolio:
- Portfolio [Portfolio](https://chumaachike.github.io/portfolio/)
+ #### I am currently avaible for hire, below is a link to my Portfolio [Portfolio](https://chumaachike.github.io/portfolio/):
+ 
 
 
 
