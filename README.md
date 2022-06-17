@@ -19,7 +19,7 @@ You can contact me on the following platforms:
 - Twitter: [@AchikeChuma](https://twitter.com/AchikeChuma)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/edward-achike-903432111/)
 - Instagram: [chumaachike](https://www.instagram.com/chumaachike/)
-- Email: [@edwardachike)(mailto:edwardachike@gmail.com)
+- Email: edwardachike@gmail.com
 
  #### I am currently avaible for hire, here is a link to my [portfolio](https://chumaachike.github.io/portfolio/):
  
