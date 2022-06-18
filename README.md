@@ -7,7 +7,7 @@ style=“margin-right: 10px;”
 ### Hi there, I'm Achike Chuma
 <hr>
 
-I am a Fullstack/Mobile developer currently looking for opportunities to work with a great team. I enjoy working with React, Node, Python, RoR, Andriod and IoS technologies 
+I am a full-stack/Mobile developer currently looking for opportunities to work with a great team. I enjoy working with React, Node, Python, RoR, Andriod and IoS technologies 
 
 I am currently a student @ microverse and up untill recently, a network engineer @ University of Nigeria, Enugu campus.
  I am a Ciso Certified Network Associate (CCNA holder)/ an IBM certified cloud engineer.
