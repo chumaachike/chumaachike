@@ -1,43 +1,54 @@
-<img
-src='./images/ACE.png'
-raw=true
-alt=“Banner-image”
-style=“margin-right: 10px;”
-/>
-### Hi there, I'm Achike Chuma
-<hr>
+### Hi there! 👋 I'm **Chuma Achike**  
+🚀 *Software & Machine Learning Engineer | AWS Certified | AI & Optimization Enthusiast*  
 
-I am a full-stack/Mobile developer currently looking for opportunities to work with a great team. I enjoy working with React, Node, Python, RoR, Andriod and IoS technologies 
+🔹 Passionate about **building scalable applications**, **AI-driven solutions**, and **cloud computing**  
+🔹 Experienced in **full-stack development**, **machine learning**, and **optimization algorithms**  
+🔹 Enthusiastic about **finance, trading systems, and energy-efficient tech solutions**  
 
-I am currently a student @ microverse and up untill recently, a network engineer @ University of Nigeria, Enugu campus.
- I am a Ciso Certified Network Associate (CCNA holder)/ an IBM certified cloud engineer.
-I am a graduate of the University of Nigeria from the department of Electronic Engineering.
+---
 
-I enjoy playing/watching football (#Bayern) and always open to try new activities and continue learning from life. 
+## 🛠️ Tech Stack & Skills
 
-You can contact me on the following platforms:
-- Twitter: [@AchikeChuma](https://twitter.com/AchikeChuma)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/edward-achike-903432111/)
-- Instagram: [chumaachike](https://www.instagram.com/chumaachike/)
-- Email: edwardachike@gmail.com
+**Cloud & DevOps**  
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white) ![Heroku](https://img.shields.io/badge/Heroku-430098?style=flat&logo=heroku&logoColor=white) ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat&logo=netlify&logoColor=white)  
 
- #### I am currently avaible for hire, here is a link to my [portfolio](https://chumaachike.github.io/portfolio/):
- 
+**AI & Machine Learning**  
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)  
 
+**Backend**  
+![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white) ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white) ![Ruby on Rails](https://img.shields.io/badge/Ruby%20on%20Rails-CC0000?style=flat&logo=ruby-on-rails&logoColor=white)  
 
+**Frontend**  
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black) ![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat&logo=redux&logoColor=white)  
 
+**Tools & Methodologies**  
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white) ![JIRA](https://img.shields.io/badge/JIRA-0052CC?style=flat&logo=jira&logoColor=white) ![CI/CD](https://img.shields.io/badge/CI/CD-FFCA28?style=flat&logo=githubactions&logoColor=black)  
 
-<!--
-**chumaachike/chumaachike** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🚀 Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛂 [CHU-BAY](https://github.com/yourusername/chu-bay)  
+*A full-stack e-commerce platform*  
+- Backend: **Spring Boot (Java)**
+- Frontend: **React + Redux**
+- **Cloud-hosted with AWS**
+
+### 🏨 [Hotel Reservation for Pets](https://github.com/VaneCode/hotel-fur-pets-backend)  
+*A booking platform for pet owners*  
+- Backend: **Ruby on Rails**
+- Frontend: **React**
+- **Live Demo:** [Click here](https://brilliant-pie-dbaf1b.netlify.app/login)
+
+More projects 👉 [Check out my GitHub](https://github.com/chumaachike)
+
+---
+
+## 💌 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/edward-achike-903432111/)  
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/chumaachike)  
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/AchikeChuma)  
+📧 Email: [edwardachike@gmail.com](mailto:edwardachike@gmail.com)  
+
+---
