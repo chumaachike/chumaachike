@@ -1,4 +1,6 @@
 ### Hi there! 👋 I'm **Chuma Achike**  
+<img src="images/headshot.png" width="200" height="200" alt="Profile Picture">
+
 🚀 *Software & Machine Learning Engineer | AWS Certified | AI & Optimization Enthusiast*  
 
 🔹 Passionate about **building scalable applications**, **AI-driven solutions**, and **cloud computing**  
@@ -28,7 +30,7 @@
 
 ## 🚀 Projects
 
-### 🛂 [CHU-BAY](https://github.com/yourusername/chu-bay)  
+### 🛂 [CHU-BAY]([https://github.com/yourusername/chu-bay](https://brilliant-pie-dbaf1b.netlify.app/)  
 *A full-stack e-commerce platform*  
 - Backend: **Spring Boot (Java)**
 - Frontend: **React + Redux**
@@ -38,7 +40,7 @@
 *A booking platform for pet owners*  
 - Backend: **Ruby on Rails**
 - Frontend: **React**
-- **Live Demo:** [Click here](https://brilliant-pie-dbaf1b.netlify.app/login)
+- **Live Demo:** coming soon
 
 More projects 👉 [Check out my GitHub](https://github.com/chumaachike)
 
@@ -50,5 +52,6 @@ More projects 👉 [Check out my GitHub](https://github.com/chumaachike)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/chumaachike)  
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/AchikeChuma)  
 📧 Email: [edwardachike@gmail.com](mailto:edwardachike@gmail.com)  
+🌐 Website: [fascinating-dango-ac05be.netlify.app](https://fascinating-dango-ac05be.netlify.app/)  
 
 ---
