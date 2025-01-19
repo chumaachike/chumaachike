@@ -29,7 +29,7 @@
 
 ## 🚀 Projects
 
-### 🛂 [CHU-BAY]([https://github.com/yourusername/chu-bay](https://brilliant-pie-dbaf1b.netlify.app/)  
+### 🛂 [CHU-BAY](https://github.com/yourusername/chu-bay](https://brilliant-pie-dbaf1b.netlify.app/)  
 *A full-stack e-commerce platform*  
 - Backend: **Spring Boot (Java)**
 - Frontend: **React + Redux**
