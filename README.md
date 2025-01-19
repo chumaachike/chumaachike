@@ -1,5 +1,4 @@
-### Hi there! 👋 I'm **Chuma Achike**  
-<img src="images/headshot.png" width="200" height="200" alt="Profile Picture">
+### Hi there! 👋 I'm **Chuma Achike** 
 
 🚀 *Software & Machine Learning Engineer | AWS Certified | AI & Optimization Enthusiast*  
 
